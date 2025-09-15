@@ -1,0 +1,38 @@
+<annotation>
+	<folder>IMG</folder>
+	<filename>T32.png</filename>
+	<path>../assets/corpusImages/T32.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>975</width>
+		<height>549</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>code block</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>33</ymin>
+			<xmax>389</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>figure</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>543</xmin>
+			<ymin>76</ymin>
+			<xmax>911</xmax>
+			<ymax>486</ymax>
+		</bndbox>
+	</object>
+</annotation>
