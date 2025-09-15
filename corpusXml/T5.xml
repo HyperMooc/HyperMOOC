@@ -1,0 +1,26 @@
+<annotation>
+	<folder>IMG</folder>
+	<filename>T5.png</filename>
+	<path>../assets/corpusImages/T5.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2072</width>
+		<height>938</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>text</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>353</xmin>
+			<ymin>279</ymin>
+			<xmax>992</xmax>
+			<ymax>667</ymax>
+		</bndbox>
+	</object>
+</annotation>

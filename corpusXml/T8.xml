@@ -1,0 +1,26 @@
+<annotation>
+	<folder>IMG</folder>
+	<filename>T8.png</filename>
+	<path>../assets/corpusImages/T8.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2072</width>
+		<height>938</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>figure</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>355</xmin>
+			<ymin>53</ymin>
+			<xmax>1708</xmax>
+			<ymax>891</ymax>
+		</bndbox>
+	</object>
+</annotation>
