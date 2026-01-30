@@ -16,7 +16,7 @@ import DesignSpaceTable from './components/DesignSpaceTable.vue'
           <a href="#corpus">Corpus</a>
           <a href="#design-space">Design Space</a>
           <a href="#models">Data Processing</a>
-          <a href="#paper">Paper</a>
+          <a href="https://arxiv.org/pdf/2509.08404r">Paper</a>
         </nav>
       </div>
       <div class="teaser-image">
